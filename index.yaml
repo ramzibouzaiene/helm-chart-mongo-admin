@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  mongodb-admin-interface:
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2024-09-27T16:31:04.930406025+01:00"
+    description: A Helm chart for MongoDB Admin Interface
+    digest: 37349c78bfcd762bfb0621e315b247383371f9879a8be1394038973c67891926
+    icon: https://hub.docker.com/api/media/repos_logo/v1/library%2Fmongo-express
+    keywords:
+    - mongodb
+    - database
+    - mongo-express
+    maintainers:
+    - email: ramzibouzaiene00@gmail.com
+      name: Ramzi Bouzaiene
+    name: mongodb-admin-interface
+    sources:
+    - https://github.com/ramzibouzaiene/helm-chart-mongo-admin
+    type: application
+    urls:
+    - mongodb-admin-interface-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-27T16:31:04.902573377+01:00"
